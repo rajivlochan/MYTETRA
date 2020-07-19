@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mytetradoc>
+<root>
+ <format version="1" subversion="2"/>
+ <content>
+  <node crypt="" id="1300000000aaaaaaaaa1" name="Конспекты">
+   <node crypt="" id="1594899839xgdx104r4f" name="ШБ">
+    <recordtable>
+     <record id="1594899893s0vsukuxlf" name="Песнь 2 Глава 4" author="" url="" tags="" ctime="20200716144453" dir="1594899893qcqu825myh" file="text.html"/>
+     <record id="15948999491m0o0ez1xc" name="Песнь 2 Глава 3" author="" url="" tags="" ctime="20200716144549" dir="15948999497klb08jqtw" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="15948998491tcvntwii1" name="ЧЧ"/>
+   <node crypt="" id="1595135408h9hz4pe7ev" name="ШП">
+    <recordtable>
+     <record id="1595136115hhzkgpfph9" name="ШБ 02.04.03-04" author="Шрила Прабхупада" url="https://vanisource.org/wiki/720627_-_Lecture_SB_02.04.03-4_-_Los_Angeles" tags="лекция, конспект, шрила прабхупада" ctime="20200719082155" dir="1595136115uchbbm069v" file="text.html"/>
+    </recordtable>
+   </node>
+  </node>
+  <node crypt="" id="1594987467uxyikrakwp" name="Регламенты">
+   <recordtable>
+    <record id="15949875306i4038oj3w" name="Регламент кшетры дежурства" author="" url="" tags="" ctime="20200717150530" dir="1594987530gz3eqcu39a" file="text.html"/>
+   </recordtable>
+  </node>
+ </content>
+</root>
