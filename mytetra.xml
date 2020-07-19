@@ -3,23 +3,23 @@
 <root>
  <format version="1" subversion="2"/>
  <content>
-  <node crypt="" id="1300000000aaaaaaaaa1" name="Конспекты">
-   <node crypt="" id="1594899839xgdx104r4f" name="ШБ">
+  <node crypt="1" icon="" id="1300000000aaaaaaaaa1" name="UkM1U0lNUAPkoZYmXj9/t62XHvP29ImPpmEY85paADZpTeFsFhS4jl75P9fy9DKYFTxgT2Os0rphmDU9ppeTrA==">
+   <node crypt="1" icon="" id="1594899839xgdx104r4f" name="UkM1U0lNUANZfKnvogcuIakqTxsMNmYtgnTOi46E4WQ/m9TtaZQ/BOr1AteXPoZF">
     <recordtable>
-     <record id="1594899893s0vsukuxlf" name="Песнь 2 Глава 4" author="" url="" tags="" ctime="20200716144453" dir="1594899893qcqu825myh" file="text.html"/>
-     <record id="15948999491m0o0ez1xc" name="Песнь 2 Глава 3" author="" url="" tags="" ctime="20200716144549" dir="15948999497klb08jqtw" file="text.html"/>
+     <record id="1594899893s0vsukuxlf" name="UkM1U0lNUAPc5nnI19wxckjQYE+wY/4nN30+mPjLqNKPmDQzAHbJeRede2sBZ3MKngOW8uR+sRShy6YsqF6F44I6e+D7Ynts" author="" url="" tags="" ctime="20200716144453" dir="1594899893qcqu825myh" file="text.html" crypt="1"/>
+     <record id="15948999491m0o0ez1xc" name="UkM1U0lNUAPTJJya70TRlU0kJADYO9bh1qPylEdtVWX9lHLmFu1LnHsWC5nXdKJFXDJaq9gkDw8twwUttx2JQw6jiG3mqgMi" author="" url="" tags="" ctime="20200716144549" dir="15948999497klb08jqtw" file="text.html" crypt="1"/>
     </recordtable>
    </node>
-   <node crypt="" id="15948998491tcvntwii1" name="ЧЧ"/>
-   <node crypt="" id="1595135408h9hz4pe7ev" name="ШП">
+   <node crypt="1" icon="" id="15948998491tcvntwii1" name="UkM1U0lNUAONm1Qnipn4H/f/FhVJV1s1YKDk0qIoQQt5KnIAT4dznbfpBO5QVpmV"/>
+   <node crypt="1" icon="" id="1595135408h9hz4pe7ev" name="UkM1U0lNUAOx9EQ/j5hmGS45C/uCK9EVOXCcOlVFiea6c2mjaae8UuzS9XpCWLJ2">
     <recordtable>
-     <record id="1595136115hhzkgpfph9" name="ШБ 02.04.03-04" author="Шрила Прабхупада" url="https://vanisource.org/wiki/720627_-_Lecture_SB_02.04.03-4_-_Los_Angeles" tags="лекция, конспект, шрила прабхупада" ctime="20200719082155" dir="1595136115uchbbm069v" file="text.html"/>
+     <record id="1595136115hhzkgpfph9" name="UkM1U0lNUAPf08RAReAtaQtCMFA2RbIyL9TJnA3KQRhfoOQk1aVvdPniNqnDG5JJS4WhV5AlYKU=" author="UkM1U0lNUANgNtLReSr3Wfz4PbymRejo965PHK0rDOx/GyC7f9CjYDPLOl+vYxwczYqYmbyBEsOXMPp7GZ8xfSw1pz+4Hu43" url="UkM1U0lNUAMrjRa/rwof5WvW+jyF2RewIoqfTk9j5iIw0jc+oJEvfvZcyLHHl7NkVMBtggMCo4DjpdavWC+juo8WxwuyIqA5fS2ejhkKN2/ukxmGdp+FdU4+8tOL7SSPYbravJqgOLQK/FeGDkqubA==" tags="UkM1U0lNUAPki3lD/EbYJ5C/bTYa4egOe/c3WUuVxx2Vzsc0J7vxiZopeN5Nh95F+sbHW9N4zrJzX8QMW87+vSODVksnD22s2MNQYhfLjDl7f2g/uEOCtfwB2hzU0QlPQzP2uA71lPE=" ctime="20200719082155" dir="1595136115uchbbm069v" file="text.html" crypt="1"/>
     </recordtable>
    </node>
   </node>
-  <node crypt="" id="1594987467uxyikrakwp" name="Регламенты">
+  <node crypt="1" icon="" id="1594987467uxyikrakwp" name="UkM1U0lNUAOuQIvWE3m8lmbIxdYNgLPZWpEzMJg4z6lt7HRAWreyv3bA69x1uSHHHtEHN6opZikJF9Gv/9TRAQ==">
    <recordtable>
-    <record id="15949875306i4038oj3w" name="Регламент кшетры дежурства" author="" url="" tags="" ctime="20200717150530" dir="1594987530gz3eqcu39a" file="text.html"/>
+    <record id="15949875306i4038oj3w" name="UkM1U0lNUAO4QMI9Os+ZSEIPCMi4/do+rRur8zoz+CbdLxFA8ttgnaH3E4VfiFA8PjADSXTv705DNTrKBDwagBCnJ3FLEEx8vjBq8fAjG0N3uw8Zr+tBnObLxTxVeV0p" author="" url="" tags="" ctime="20200717150530" dir="1594987530gz3eqcu39a" file="text.html" crypt="1"/>
    </recordtable>
   </node>
  </content>
