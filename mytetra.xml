@@ -28,7 +28,11 @@
   </node>
   <node crypt="" id="1595567814kqkjhc0um6" name="Linux">
    <recordtable>
-    <record id="1595567830zzxff6b5dm" name="Vedabase Fonts" author="" url="" tags="" ctime="20200724081710" dir="1595567830ndg7cezc8m" file="text.html"/>
+    <record id="1595567830zzxff6b5dm" name="Vedabase Fonts" author="" url="" tags="" ctime="20200724081710" dir="1595567830ndg7cezc8m" file="text.html">
+     <files>
+      <file id="15955691847ot80pd20f" fileName="VedabaseFonts.rar" type="file"/>
+     </files>
+    </record>
    </recordtable>
   </node>
  </content>
